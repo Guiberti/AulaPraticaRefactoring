@@ -22,3 +22,4 @@ public class HtmlStatement extends Statement {
                 "</EM> frequent renter points<P>";
     }
 }
+//Commit 17 e 18 não tem diferença!
